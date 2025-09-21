@@ -1,1 +1,1 @@
-# Практическое задание хитрый калькулятор 
+#calculator sistem ischislenia
